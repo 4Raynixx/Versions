@@ -4,8 +4,7 @@
         "Initial release."
     ],
         "version": "1.0.1",
-    "changelog": [
-        "- New Cars",
-        "- awd"
+        "changelog": [
+            "- New Cars"
     ]
 }
