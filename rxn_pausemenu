@@ -4,17 +4,5 @@
         "changelog": [
             "Initial release."
         ]
-    },
-    {
-        "version": "1.0.1",
-        "changelog": [
-            "- New Cars"
-        ]
-    },
-    {
-        "version": "1.0.2",
-        "changelog": [
-            "- New Cars"
-        ]
     }
 ]
